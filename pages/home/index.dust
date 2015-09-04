@@ -1,0 +1,20 @@
+{>"layouts/page"/}
+
+{<style}
+  {! include the page index style !}
+  {@stylesheet/}
+{/style}
+{<body}
+  <main>
+    {>"pages/home/sections/introduction"/}
+    {>"pages/home/sections/service-housing"/}
+    {>"pages/home/sections/service-accounting"/}
+    {>"pages/home/sections/service-maintenance"/}
+    {>"pages/home/sections/contact"/}
+    {>"snippets/footer/footer"/}
+  </main>
+{/body}
+{<script}
+  {! include the page index script !}
+  {@script/}
+{/script}

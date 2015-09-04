@@ -1,0 +1,18 @@
+<section class="media-section{?sectionClass} {sectionClass}{/sectionClass}"{?sectionId} id="{sectionId}"{/sectionId}>
+  <aside class="section-media">
+    {+media}{/media}
+  </aside>
+  <div class="section-content">
+    <div class="section-body">
+      <hgroup>
+        <h2 class="section-title">
+          {+title}{title}{/title}
+        </h2>
+        <h3 class="section-subtitle">
+          {+subtitle}{subtitle}{/subtitle}
+        </h3>
+      </hgroup>
+      {+body}{/body}
+    </div>
+  </div>
+</section>

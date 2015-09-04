@@ -1,0 +1,57 @@
+{>"snippets/section/section" sectionId="contact" sectionClass="cover color-theme-blue"/}
+{<title}Kapcsolat{/title}
+
+{<media}
+  <div class="img"
+       style="background-image: url('https://maps.googleapis.com/maps/api/staticmap?center=Budapest,+Bocskai+út/@47.4765121,19.0363555,17z&zoom=13&size=600x300')"></div>
+{/media}
+
+{<body}
+  <p>
+    Folyamatos telefonos és elektronikus levelezés útján mindig teljes körű információkkal tudunk szolgálni.
+  </p>
+
+  <ul class="points">
+
+    <li class="point">
+      <h3 class="point-title">
+        <i class="icon"></i>
+        <span class="title-text">
+          Ügyfélszolgálati irodánk
+        </span>
+      </h3>
+
+      <p class="point-content">
+        <strong>XI. Ker. Bocskai út 3-5.</strong>
+        <br/>minden szerdán 09-17- óráig
+      </p>
+    </li>
+
+    <li class="point">
+      <h3 class="point-title">
+        <i class="icon"></i>
+        <span class="title-text">
+          Telefon
+        </span>
+      </h3>
+
+      <p class="point-content">
+        +3630 822 5418
+      </p>
+    </li>
+
+    <li class="point">
+      <h3 class="point-title">
+        <i class="icon"></i>
+        <span class="title-text">
+          E-mail
+        </span>
+      </h3>
+
+      <p class="point-content">
+        <a href="mailto:hazmester.net@gmail.com">hazmester.net@gmail.com</a>
+      </p>
+    </li>
+
+  </ul>
+{/body}

@@ -1,0 +1,23 @@
+@require "/style/global"
+
+.points
+  @extend $layout-wrap
+
+  .point
+    vertical-align top
+    width: auto
+    margin-bottom 2em
+    padding-right 2em
+    font-size .9em
+
+    &:last-of-type
+      margin-right 0
+
+    +media(tablet)
+      width: 300px
+
+  .point-title
+    font-size 1.2em
+    margin-bottom .5em
+    font-weight 700
+    text-transform uppercase

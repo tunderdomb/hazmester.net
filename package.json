@@ -1,0 +1,23 @@
+{
+  "name": "hazmester-net",
+  "version": "0.0.0",
+  "description": "hazmester.net website",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node app"
+  },
+  "author": "tunderdomb",
+  "license": "private",
+  "devDependencies": {
+    "gulp-sourcemaps": "~1.5.1",
+    "vinyl-transform": "~1.0.0",
+    "gulp-stylus": "~2.0.1",
+    "gulp": "~3.8.11",
+    "gulp-autoprefixer": "~2.1.0",
+    "browserify": "~9.0.3"
+  },
+  "dependencies": {
+    "salamandra": "^0.2.0"
+  }
+}

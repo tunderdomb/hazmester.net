@@ -1,0 +1,43 @@
+$layout
+  display: flex
+
+$layout-align-center
+  @extend $layout
+  align-items: center
+
+$layout-align-start
+  @extend $layout
+  align-items: flex-start
+
+$layout-align-end
+  @extend $layout
+  align-items: flex-end
+
+$layout-align-stretch
+  @extend $layout
+  align-items: stretch
+
+$layout-center
+  @extend $layout
+  justify-content: center
+
+$layout-row
+  @extend $layout
+  flex-direction: row
+
+$layout-column
+  @extend $layout
+  flex-direction: column
+
+$layout-wrap
+  @extend $layout
+  flex-wrap: wrap
+
+
+$layout-no-wrap
+  @extend $layout
+  flex-wrap: nowrap
+
+$layout-wrap-reverse
+  @extend $layout
+  flex-wrap: wrap-reverse

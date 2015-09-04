@@ -1,0 +1,59 @@
+{>"snippets/section/section" sectionId="maintenance" sectionClass="service"/}
+{<title}Karbantartás{/title}
+
+{<media}
+  {!<img src="/static/img/oIpwxeeSPy1cnwYpqJ1w_Dufer%20Collateral%20test.jpg" alt=""/>!}
+  <div class="img" style="background-image: url(/static/img/oIpwxeeSPy1cnwYpqJ1w_Dufer%20Collateral%20test.jpg)"></div>
+{/media}
+
+{<body}
+  <p>
+    A <strong>kivitelezéseket, karbantartásokat</strong> minden
+    esetben pályáztatjuk, de szívesen együtt dolgozunk a Társasház és a tulajdonosok által megszokott,
+    elfogadott bármely szakma kivitelezőjével.
+  </p>
+
+  <ul class="points">
+
+    <li class="point">
+      <h3 class="point-title">
+        <i class="icon"></i>
+        <span class="title-text">
+          Azonnali hibaelhárítás
+        </span>
+      </h3>
+      <p class="point-content">
+        Több kivitelezővel való kapcsolatunknak köszönhetően a hibákra azonnal tudunk reagálni,
+        és az elvégzett munkát a képviselet minden esetben ellenőrizi.
+      </p>
+    </li>
+
+    <li class="point">
+      <h3 class="point-title">
+        <i class="icon"></i>
+        <span class="title-text">
+          Felújítás, karbantartás
+        </span>
+      </h3>
+      <p class="point-content">
+        Felújítási esetén műszakilag előkészített tervvel dolgozunk,
+        karbantartási szolgáltatásunk pedig az érték és állag megóvásában segít.
+      </p>
+    </li>
+
+    <li class="point">
+      <h3 class="point-title">
+        <i class="icon"></i>
+        <span class="title-text">
+          Gondnokság
+        </span>
+      </h3>
+      <p class="point-content">
+        Igény szerint gondnoki tevékenység biztosítunk,
+        valamint vállaljuk a ház megelőző karbantartási munkáinak megszervezését.
+      </p>
+    </li>
+
+  </ul>
+
+{/body}

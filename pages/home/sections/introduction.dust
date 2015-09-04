@@ -1,0 +1,14 @@
+{>"snippets/section/section" sectionId="introduction" sectionClass="cover color-theme-blue"/}
+{<title}Házmester.net - Gondos Kezelés{/title}
+
+{<media}
+  {!<img src="/static/img/xKNCBEgSTUGbgBoYgJ90_Skyline.jpg" alt=""/>!}
+  <div class="img" style="background-image: url(/static/img/photo-1415302199888-384f752645d0.jpg)"></div>
+{/media}
+
+{<body}
+  <p>
+    A <strong>társasházkezelés</strong> bizalmi alapon nyugszik,
+    amit teljes körűen - könyveléssel - és <strong>szakmai hozzáértéssel</strong> végzünk.
+  </p>
+{/body}

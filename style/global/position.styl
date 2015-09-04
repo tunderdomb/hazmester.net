@@ -1,0 +1,22 @@
+$fixed
+  position: fixed
+$absolute
+  position absolute
+$top
+  top 0
+$left
+  left 0
+$right
+  right 0
+$bottom
+  bottom 0
+$to-left
+  @extend $top, $left, $bottom
+$to-top
+  @extend $top, $left, $right
+$to-bottom
+  @extend $left, $bottom, $right
+$to-right
+  @extend $top, $bottom, $right
+$fill
+  @extend $top, $left, $bottom, $right
